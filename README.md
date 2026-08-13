@@ -132,5 +132,5 @@ streamlit run app.py
 
 ## Live Links (fill in before submission)
 
-- **GitHub Repository:** `<paste link here>`
-- **Live Streamlit App:** `<paste link here>`
+- **GitHub Repository:** https://github.com/2025ac05265/ML_Assignment_2
+- **Live Streamlit App:** https://biresh2025ac05265.streamlit.app/
