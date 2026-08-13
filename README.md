@@ -1,7 +1,7 @@
 # ML Assignment 2 — Classification Models & Streamlit Deployment
 
 **Course:** M.Tech (AIML/DSE) — Machine Learning, BITS Pilani WILP
-**Student:** [Your Name] | [BITS ID]
+**Student:**  Biresh Kumar | 2025ac05265
 
 ---
 
@@ -36,8 +36,7 @@ evaluation.
 
 ## c. GitHub Repository Link
 
-👉 `https://github.com/<your-username>/<your-repo-name>`
-*(Replace with your actual repo link once pushed — see Deployment Steps below.)*
+👉 `https://github.com/2025ac05265/ML_Assignment_2`
 
 ## d. Models Used
 
