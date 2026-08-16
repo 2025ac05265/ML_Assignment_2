@@ -409,21 +409,11 @@ The script:
 9. Generates `meta.json`.
 10. Generates the held-out test data used by the Streamlit application.
 
----
 
-## 15. Technologies Used
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- Streamlit
 
 ---
 
-## 16. Conclusion
+## 15. Conclusion
 
 The experiment demonstrates that multiple supervised classification algorithms can achieve strong performance on the Breast Cancer Wisconsin (Diagnostic) dataset.
 
@@ -431,33 +421,3 @@ Among the evaluated models, **Logistic Regression and SVM (RBF)** provide the be
 
 The Streamlit application extends the assignment from offline model evaluation to an interactive prediction and evaluation workflow, allowing users to upload test data, select a trained classifier and inspect the resulting predictions and performance metrics.
 
----
-
-## 17. Assignment Deliverables Checklist
-
-- [x] Dataset with at least 500 instances
-- [x] At least 12 predictor features
-- [x] Binary classification problem
-- [x] Six classification models implemented
-- [x] Train/test split with stratification
-- [x] Feature scaling through pipelines
-- [x] Accuracy evaluation
-- [x] AUC evaluation
-- [x] Precision evaluation
-- [x] Recall evaluation
-- [x] F1-Score evaluation
-- [x] MCC evaluation
-- [x] Model performance comparison
-- [x] Model observations and conclusion
-- [x] Trained model artifacts
-- [x] Streamlit application
-- [x] Live deployment
-- [x] README documentation
-
----
-
-## 18. Author
-
-**Biresh Kumar**  
-**BITS Pilani WILP — M.Tech (AIML/DSE)**  
-**Student ID:** 2025ac05265
